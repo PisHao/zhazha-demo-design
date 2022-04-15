@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zhazha-demo-design.iml" filepath="$PROJECT_DIR$/zhazha-demo-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhazha-demo-design-1-00/zhazha-demo-design-1-00.iml" filepath="$PROJECT_DIR$/zhazha-demo-design-1-00/zhazha-demo-design-1-00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhazha-demo-design-1-01/zhazha-demo-design-1-01.iml" filepath="$PROJECT_DIR$/zhazha-demo-design-1-01/zhazha-demo-design-1-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhazha-demo-design-1-02/zhazha-demo-design-1-02.iml" filepath="$PROJECT_DIR$/zhazha-demo-design-1-02/zhazha-demo-design-1-02.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zhazha-demo-design-1-02" />
+        <module name="zhazha-demo-design-1-01" />
+        <module name="zhazha-demo-design-1-00" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ear" target="1.5" />
+      <module name="ejbs" target="1.5" />
+      <module name="logging" target="1.5" />
+      <module name="primary-source" target="1.5" />
+      <module name="projects" target="1.5" />
+      <module name="servlet" target="1.5" />
+      <module name="servlets" target="1.5" />
+      <module name="zhazha-demo-design" target="1.8" />
+      <module name="zhazha-demo-design-1-00" target="1.8" />
+      <module name="zhazha-demo-design-1-01" target="1.8" />
+      <module name="zhazha-demo-design-1-02" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
