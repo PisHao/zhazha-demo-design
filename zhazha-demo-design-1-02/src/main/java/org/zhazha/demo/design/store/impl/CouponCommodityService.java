@@ -3,7 +3,6 @@ package org.zhazha.demo.design.store.impl;
 import com.alibaba.fastjson.JSON;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.zhazha.demo.design.card.IQiYiCardService;
 import org.zhazha.demo.design.coupon.CouponResult;
 import org.zhazha.demo.design.coupon.CouponService;
 import org.zhazha.demo.design.store.ICommodity;
