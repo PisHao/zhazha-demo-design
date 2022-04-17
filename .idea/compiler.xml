@@ -9,7 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="zhazha-demo-design-1-02" />
         <module name="zhazha-demo-design-1-01" />
+        <module name="zhazha-demo-design-2-02" />
         <module name="zhazha-demo-design-1-00" />
+        <module name="zhazha-demo-design-2-01" />
+        <module name="zhazha-demo-design-2-00" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +27,10 @@
       <module name="zhazha-demo-design-1-00" target="1.8" />
       <module name="zhazha-demo-design-1-01" target="1.8" />
       <module name="zhazha-demo-design-1-02" target="1.8" />
+      <module name="zhazha-demo-design-2-00" target="1.8" />
+      <module name="zhazha-demo-design-2-01" target="1.8" />
+      <module name="zhazha-demo-design-2-01 (1)" target="1.8" />
+      <module name="zhazha-demo-design-2-02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
